@@ -4,6 +4,7 @@
 Requires Node >=8
 
 ## System dependencies
+$ cd vue_app
 $ npm install
 
 ## Configuration
